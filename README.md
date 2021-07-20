@@ -7,7 +7,7 @@
 ## Screenshots!
 
 ### Homescreen 
-<img src="(https://user-images.githubusercontent.com/74097022/126311333-9aff288b-3b09-4f72-9491-8e8c389965db.jpeg)" width ="250px" height ="450px"> 
+<img src="https://github.com/tanishq1306/BasicBankingApp/blob/master/ss/Home%20screen.jpg" width ="250px" height ="450px"> 
 
 ------------------------------------------
 
