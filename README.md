@@ -6,11 +6,6 @@
 
 ## Screenshots!
 
-### Design Layout 
-<img src="https://github.com/tanishq1306/BasicBankingApp/blob/master/ss/Layouts.PNG">
-
-----------------------------------------
-
 ### Homescreen 
 <img src="https://github.com/tanishq1306/BasicBankingApp/blob/master/ss/Home%20screen.jpg" width ="250px" height ="450px"> 
 
