@@ -12,7 +12,7 @@
 ------------------------------------------
 
 ### Users List 
-<img src="https://github.com/tanishq1306/BasicBankingApp/blob/master/ss/Select%20User%20Account.jpg" width ="250px" height ="450px">
+<img src="https://github.com/Chinmay2660/MyBankingApp/blob/master/images/User%20Details.jpeg" width ="250px" height ="450px">
 
 ------------------------------------------
 
@@ -27,7 +27,7 @@
 ------------------------------------------
 
 ### Select User To Transfer Money
-<img src="https://github.com/tanishq1306/BasicBankingApp/blob/master/ss/Select%20a%20user%20to%20transfer%20money%20to.jpg" width ="250px" height ="450px">
+<img src="https://github.com/Chinmay2660/MyBankingApp/blob/master/images/Select%20a%20User%20to%20Transfer%20Money%20To.jpeg" width ="250px" height ="450px">
 
 ------------------------------------------
 
