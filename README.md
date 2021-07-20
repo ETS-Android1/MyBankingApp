@@ -8,6 +8,8 @@
 
 ### Homescreen 
 <img src="https://github.com/tanishq1306/BasicBankingApp/blob/master/ss/Home%20screen.jpg" width ="250px" height ="450px"> 
+<img src="https://user-images.githubusercontent.com/74097022/126312223-7d8cfeb0-c212-43da-90aa-37ca7daf8fd8.jpeg)" width ="250px" height ="450px"> 
+
 
 ------------------------------------------
 
