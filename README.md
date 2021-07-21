@@ -22,7 +22,7 @@
 ------------------------------------------
 
 ### Transfer Amount
-<img src="https://github.com/tanishq1306/BasicBankingApp/blob/master/ss/Amount%20exceeded%20limit.jpg" width ="250px" height ="450px"> <img src="https://github.com/tanishq1306/BasicBankingApp/blob/master/ss/Enter%20Amount.jpg" width ="250px" height ="450px">   
+<img src="https://user-images.githubusercontent.com/74097022/126523179-6c212d07-0808-4791-984a-caa87adb9c9c.jpeg" width ="250px" height ="450px"> <img src="https://user-images.githubusercontent.com/74097022/126523275-b91302e0-e537-430a-bb44-1170e8fdf1e8.jpeg" width ="250px" height ="450px">   
 
 ------------------------------------------
 
@@ -37,7 +37,7 @@
 ------------------------------------------
 
 ### Updated Amount In Users List
-<img src="https://github.com/tanishq1306/BasicBankingApp/blob/master/ss/Updated%20Amount.jpg" width ="250px" height ="450px">
+<img src="https://user-images.githubusercontent.com/74097022/126523594-57e86c5e-6bb0-4ed8-a5d0-23b4a1c1f30b.jpeg" width ="250px" height ="450px">
 
 ------------------------------------------
 
