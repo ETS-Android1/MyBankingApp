@@ -12,12 +12,12 @@
 ------------------------------------------
 
 ### Users List 
-<img src="https://user-images.githubusercontent.com/74097022/126522013-89e00826-3e0c-44d2-af24-77ed6a318462.jpeg" width ="250px" height ="450px">
+<img src="https://user-images.githubusercontent.com/74097022/126522349-7d9e36c0-3283-4e13-9393-56e85fa457c6.jpeg" width ="250px" height ="450px">
 
 ------------------------------------------
 
 ### Users Data
-<img src="https://github.com/tanishq1306/BasicBankingApp/blob/master/ss/User%20Details.jpg" width ="250px" height ="450px">
+<img src="https://user-images.githubusercontent.com/74097022/126522013-89e00826-3e0c-44d2-af24-77ed6a318462.jpeg" width ="250px" height ="450px">
 
 ------------------------------------------
 
