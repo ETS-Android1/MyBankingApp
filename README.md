@@ -22,7 +22,7 @@
 ------------------------------------------
 
 ### Transfer Amount
-<img src="https://user-images.githubusercontent.com/74097022/126523838-6db4ef8e-88c3-4c1e-b39e-172fec384093.jpeg" width ="250px" height ="450px"> <img src="https://user-images.githubusercontent.com/74097022/126523275-b91302e0-e537-430a-bb44-1170e8fdf1e8.jpeg" width ="250px" height ="450px">   
+<img src="https://user-images.githubusercontent.com/74097022/126523838-6db4ef8e-88c3-4c1e-b39e-172fec384093.jpeg" width ="250px" height ="450px"> <img src="https://user-images.githubusercontent.com/74097022/126523964-22ed39bf-2318-4a4d-8c33-757f16ca3212.jpeg" width ="250px" height ="450px">   
 
 ------------------------------------------
 
