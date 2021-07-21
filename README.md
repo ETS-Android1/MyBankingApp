@@ -12,7 +12,7 @@
 ------------------------------------------
 
 ### Users List 
-<img src="https://github.com/Chinmay2660/MyBankingApp/blob/master/images/User%20Details.jpeg" width ="250px" height ="450px">
+<img src="https://user-images.githubusercontent.com/74097022/126522013-89e00826-3e0c-44d2-af24-77ed6a318462.jpeg" width ="250px" height ="450px">
 
 ------------------------------------------
 
