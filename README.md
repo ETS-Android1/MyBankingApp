@@ -32,7 +32,7 @@
 ------------------------------------------
 
 ### Transaction Successful
-<img src="https://github.com/tanishq1306/BasicBankingApp/blob/master/ss/Transaction%20Successfull.jpeg" width ="250px" height ="450px">
+<img src="https://user-images.githubusercontent.com/74097022/126522745-602b25fb-f952-435b-9a06-05ff23ef4b22.jpeg" width ="250px" height ="450px">
 
 ------------------------------------------
 
@@ -42,7 +42,7 @@
 ------------------------------------------
 
 ### Transaction History Showing Successfull & Cancelled Transactions
-<img src="https://github.com/tanishq1306/BasicBankingApp/blob/master/ss/Transaction%20History.jpeg" width ="250px" height ="450px">
+<img src="https://user-images.githubusercontent.com/74097022/126522868-842334c7-540e-4c71-b8f4-4e1534695298.jpeg" width ="250px" height ="450px">
 
 ------------------------------------------
 
